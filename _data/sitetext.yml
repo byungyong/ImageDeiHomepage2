@@ -16,6 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
+  introduction:
+    title: "It is Indroduction"
+    text: "hihihi!!"
+    section: introduction
+    
   services:
     title: "Services"
     text: "Lorem ipsum"
